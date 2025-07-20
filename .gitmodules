@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/brijeshdubey8779/Youtubers-client.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/brijeshdubey8779/Youtubers-server.git
